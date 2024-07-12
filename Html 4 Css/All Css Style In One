@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="All Css Style.css">
+        <style>
+            h2{
+                color: blue;
+            }
+        </style>
+    </head>
+
+    <h1 style="color: purple;">Inline Style Example</h1>
+    <h2>Internal Style Example</h2>
+    <h3>External Style Example</h3>
+</html>
